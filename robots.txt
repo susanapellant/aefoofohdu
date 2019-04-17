@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://euquohmala.andrewledvina.com/sitemap.xml
